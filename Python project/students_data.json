@@ -1,0 +1,14 @@
+{
+    "001\t": {
+        "name": "Chima Odinaka Henry",
+        "courses": {}
+    },
+    "001": {
+        "name": "Chima Henry",
+        "courses": {
+            "GET 301": 75,
+            "GET 303": 60,
+            "RDS 301": 72
+        }
+    }
+}
